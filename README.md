@@ -1,6 +1,6 @@
 # Frontend Mentor - Results summary component solution
 
-This is a solution to the [Results summary component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/results-summary-component-CE_K6s0maV). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+This is a solution to the [Results summary component challenge on Frontend Mentor](https://www.frontendmentent.io/challenges/results-summary-component-CE_K6s0maV). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ## Table of contents
 
@@ -12,7 +12,9 @@ This is a solution to the [Results summary component challenge on Frontend Mento
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
+  - [Useful resources](#useful-resources)
 - [Author](#author)
+- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -63,11 +65,16 @@ I plan to continue focusing on:
 -   **Performance Optimization**: Further optimizing image sizes and ensuring efficient loading of assets.
 -   **Automated Testing**: Implementing unit tests for the JavaScript logic to ensure data fetching and rendering are robust.
 
+### Useful resources
+
+- [Frontend Mentor](https://www.frontendmentor.io/home) - مصدر التحدي.
+- [The Markdown Guide](https://www.markdownguide.org/) - دليل لكتابة ملفات Markdown.
+
 ## Author
 
 -   Frontend Mentor - [@mohamedrashwann](https://www.frontendmentor.io/profile/mohamedrashwann)
 -   GitHub - [@mohamedrashwann](https://github.com/mohamedrashwann)
 
-***
+## Acknowledgments
 
 *تم إنشاء هذا الملف بواسطة Manus AI بناءً على طلب المستخدم.*
