@@ -1,6 +1,6 @@
 # Frontend Mentor - Results summary component solution
 
-This is a solution to the [Results summary component challenge on Frontend Mentor](https://www.frontendmentent.io/challenges/results-summary-component-CE_K6s0maV). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Results summary component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/results-summary-component-CE_K6s0maV). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -12,9 +12,7 @@ This is a solution to the [Results summary component challenge on Frontend Mento
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -28,7 +26,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./image.png)
+![](https://private-us-east-1.manuscdn.com/sessionFile/7IMuP0fjXCFF6QUzZKsSMu/sandbox/HRsTfY6Pn0SWpvN7Lq4fzE-images_1764629565590_na1fn_L2hvbWUvdWJ1bnR1L1Jlc3VsdHMtc3VtbWFyeS1jb21wb25lbnQvaW1hZ2U.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvN0lNdVAwZmpYQ0ZGNlFVelpLc1NNdS9zYW5kYm94L0hSc1RmWTZQbjBTV3B2TjdMcTRmekUtaW1hZ2VzXzE3NjQ2Mjk1NjU1OTBfbmExZm5fTDJodmJXVXZkV0oxYm5SMUwxSmxjM1ZzZEhNdGMzVnRiV0Z5ZVMxamIyMXdiMjVsYm5RdmFXMWhaMlUucG5nIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzk4NzYxNjAwfX19XX0_&Key-Pair-Id=K2HSFNDJXOU9YS&Signature=rtb9miEP2jWbhoLAZpHH0bGKOfroAQMDxKBsQ2Yt8tzXSf~5BvckKzzrn1wWm4qTVokf~wquIT0lYkDuNir-qZlj-t0pz4vnpDVnx6VoTqrjMkDGbyohogYY0X0NgEH78-BIMCq3P0kFa3Z1Qz8WpuIYHS3Z0Dp~3Y0OXuYWkVH7fwUqgX0GcJkDWV3khOKCS0jX7fptYIn1ya2Ga3ejv-fAKWyFLEwduMrIc0h6cqcC3QS~z6ANA9RAJJdqixECbJH9m5RGVtVWNw-gkuASFOMp~OvAIVmCHbjOnkWCTRZZsertScuWbO-XOLp52IbRuS~Copg3ewWOR3WCcljZFg__)
 
 ### Links
 
@@ -65,16 +63,11 @@ I plan to continue focusing on:
 -   **Performance Optimization**: Further optimizing image sizes and ensuring efficient loading of assets.
 -   **Automated Testing**: Implementing unit tests for the JavaScript logic to ensure data fetching and rendering are robust.
 
-### Useful resources
-
-- [Frontend Mentor](https://www.frontendmentor.io/home) - مصدر التحدي.
-- [The Markdown Guide](https://www.markdownguide.org/) - دليل لكتابة ملفات Markdown.
-
 ## Author
 
 -   Frontend Mentor - [@mohamedrashwann](https://www.frontendmentor.io/profile/mohamedrashwann)
 -   GitHub - [@mohamedrashwann](https://github.com/mohamedrashwann)
 
-## Acknowledgments
+***
 
-*تم إنشاء هذا الملف بواسطة Manus AI بناءً على طلب المستخدم.*
+**
