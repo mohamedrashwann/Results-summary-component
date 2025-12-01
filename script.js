@@ -1,5 +1,5 @@
 // Fetch the JSON data
-fetch("./b84941f4-3ec6-4a59-bafc-d42eef06bcc4.json")
+fetch("./assets/data.json")
   .then((response) => response.json())
   .then((data) => {
     const list = document.querySelector("ul");
