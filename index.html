@@ -4,7 +4,10 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Frontend Mentor | Results summary component</title>
-  <link rel="stylesheet" href="style.css" />
+  <link rel="stylesheet" href="./style.css" />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Hanken+Grotesk:wght@400;500;700;800&display=swap" rel="stylesheet">
   <link rel="icon" type="image/png" href="./assets/images/favicon-32x32.png" />
 </head>
 <body>
@@ -22,34 +25,43 @@
     <section class="summary">
       <h2>Summary</h2>
       <ul>
-        <li class="reaction item">
-          <img src="./assets/images/icon-reaction.svg" alt="Reaction icon">
-          <span>Reaction</span>
-          <p><strong>80</strong> / 100</p>
-        </li>
-        <li class="memory item">
-          <img src="./assets/images/icon-memory.svg" alt="Memory icon">
-          <span>Memory</span>
-          <p><strong>92</strong> / 100</p>
-        </li>
-        <li class="verbal item">
-          <img src="./assets/images/icon-verbal.svg" alt="Verbal icon">
-          <span>Verbal</span>
-          <p><strong>61</strong> / 100</p>
-        </li>
-        <li class="visual item">
-          <img src="./assets/images/icon-visual.svg" alt="Visual icon">
-          <span>Visual</span>
-          <p><strong>72</strong> / 100</p>
-        </li>
+        <!-- سيتم ملء العناصر ديناميكيًا بواسطة JavaScript -->
       </ul>
       <button class="continue-btn">Continue</button>
     </section>
   </main>
+  
   <div class="attribution">
     Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>. 
     Coded by <a href="https://www.frontendmentor.io/profile/mohamedrashwann">Mohamed Rashwan</a>.
   </div>
+  
+  <!-- بيانات JSON مضمنة في الصفحة -->
+  <script type="application/json" id="results-data">
+    [
+      {
+        "category": "Reaction",
+        "score": 80,
+        "icon": "./assets/images/icon-reaction.svg"
+      },
+      {
+        "category": "Memory",
+        "score": 92,
+        "icon": "./assets/images/icon-memory.svg"
+      },
+      {
+        "category": "Verbal",
+        "score": 61,
+        "icon": "./assets/images/icon-verbal.svg"
+      },
+      {
+        "category": "Visual",
+        "score": 72,
+        "icon": "./assets/images/icon-visual.svg"
+      }
+    ]
+  </script>
+  
   <script src="script.js"></script>
 </body>
 </html>
